@@ -1,10 +1,10 @@
-# Free Sticker for a Pull Request
+# Free Sticker for a Pull Request :-
 
 This project provides a command line interface (CLI) that allows you to encrypt your mailing address with a public key. We can then decrypt it with with our private key and mail you a sticker.
 
 ![](https://i.ibb.co/N22m19g/vwc-outlined.png)
 
-## Instructions
+## Instructions :-
 
 Note: You must have Node 8 or later installed locally.
 Note: Your commit must contain **only 1 file**. Verify that you did not change any existing code before making your PR.
@@ -21,6 +21,6 @@ Note: Your commit must contain **only 1 file**. Verify that you did not change a
 
 Pro Tip: [Follow us on Twitter](https://twitter.com/vetswhocode) to learn more about Vets Who Code.
 
-## Working
+## Working :-
 
 You can have a look at the inner workings [here](working.md).
